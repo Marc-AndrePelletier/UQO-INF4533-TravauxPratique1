@@ -1,0 +1,18 @@
+Travaux pratiques - Scéance 1
+Marc-André Pelletier
+
+1.Trouver l'adresse IP et le masque réseau de votre ordinateur. Trouver les adresses IP de: google.com, w3.uqo.ca, www.wikipedia.org.
+Adresse IPv4: 		132.213.173.3
+Masque:       		255.255.255.0
+Google.com:   		74.125.226.113
+w3.uqo.ca:    		132.213.9.33
+www.wikipedia.org:  208.80.154.224
+
+2.Trouver l'information sur l'adresse 8.8.8.8:53. C'est un serveur. Que fait-il?
+Il s'agit d'un serveur DNS public de Google.
+
+3.Se familiariser avec un éditeur de texte, par exemple atom, afin de pouvoir créer, modifier et supprimer des fichiers.
+Fait.
+
+4.Créez vous un compte github et y créez votre premier projet contenant au moins un document en format texte.
+Compte github: https://github.com/Marc-AndrePelletier
